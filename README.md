@@ -10,4 +10,5 @@ I do this minichat web app using bootstrap & php & mysql
   <li> In phpMyAdmin create a database calld 'test' inside this database click on import and import 'minichat.sql' from the project </li>
   <li> Finally run the localhost from XAMPP and the App will run succssfully</li>
 </ol>
+<img src="https://user-images.githubusercontent.com/78934667/141075546-0df4a04c-98b2-4c3e-9903-c234c454d24b.png">
 ![Screenshot 2021-11-10 084355](https://user-images.githubusercontent.com/78934667/141075546-0df4a04c-98b2-4c3e-9903-c234c454d24b.png)
