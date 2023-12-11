@@ -1,2 +1,2 @@
 # Minichat
-I did developed this minichat web app using bootstrap &amp; php &amp; mysql
+I developed this minichat web app using bootstrap &amp; php &amp; mysql
